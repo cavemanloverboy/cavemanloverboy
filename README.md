@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cavemanloverboy
-- 👀 I’m interested in DeFi, NFTs, Metaverse.
 - 🌱 I’m currently learning Rust, Typescript.
 - 💞️ I’m looking to collaborate on DeFi projects.
 
