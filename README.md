@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @cavemanloverboy
-- 🌱 I’m currently learning Rust, Typescript.
-- 💞️ I’m looking to collaborate on DeFi projects.
-
 Twitter:
 @cavemanloverboy
 
