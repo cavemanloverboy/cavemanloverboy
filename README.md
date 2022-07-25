@@ -10,7 +10,10 @@ A color-coded visualization tool for the instructions of an anchor program.
 
 ### cosmology: a rust crate for cosmology
 An early-in-development crate intended to eventually include lots of utilities commonly used in cosmology
-https://crates.io/crates/cosmology.
+https://crates.io/crates/cosmology
+
+### interp1d: a simple rust crate for 1D linear interpolation
+https://crates.io/crates/interp1d
 
 <!---
 cavemanloverboy/cavemanloverboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
