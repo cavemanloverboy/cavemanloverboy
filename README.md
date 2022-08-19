@@ -4,16 +4,16 @@ I work on a lot of things including non-equilibrium fluid dynamics, cosmology (l
 
 # Check out my crates!
 
-### anchor-viz: visualizing anchor programs
-A color-coded visualization tool for the instructions of an anchor program.
-![image](https://user-images.githubusercontent.com/93507302/172890523-ddda94f5-14f0-4536-927c-1f28cf900b3d.png)
-
 ### cosmology: a rust crate for cosmology
 An early-in-development crate intended to eventually include lots of utilities commonly used in cosmology
 https://crates.io/crates/cosmology
 
 ### interp1d: a simple rust crate for 1D linear interpolation
 https://crates.io/crates/interp1d
+
+### anchor-viz: visualizing anchor programs
+A color-coded visualization tool for the instructions of an anchor program.
+![image](https://user-images.githubusercontent.com/93507302/172890523-ddda94f5-14f0-4536-927c-1f28cf900b3d.png)
 
 <!---
 cavemanloverboy/cavemanloverboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
