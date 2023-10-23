@@ -4,13 +4,16 @@ I work on a lot of things including non-equilibrium fluid dynamics, cosmology (l
 
 # Check out my crates!
 
+### bosque: a fast in-place kD-tree library
+A very fast in-place kD-tree library with no storage overhead. As it is intended for cosmology, it only works for 3D data as is but is easily generalized.
+https://github.com/cavemanloverboy/bosque
+
 ### cosmology: a rust crate for cosmology
 An early-in-development crate intended to eventually include lots of utilities commonly used in cosmology
 https://crates.io/crates/cosmology
 
 ### interp1d: a simple rust crate for 1D linear interpolation
 https://crates.io/crates/interp1d
-
 
 ### packed_bools: a lightweight ergonomic bit manipulation library for packing booleans
 https://crates.io/crates/packed_bools
