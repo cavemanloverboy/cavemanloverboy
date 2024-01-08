@@ -8,6 +8,10 @@ I work on a lot of things including non-equilibrium fluid dynamics, cosmology (l
 A very fast in-place kD-tree library with no storage overhead. As it is intended for cosmology, it only works for 3D data as is but is easily generalized.
 https://github.com/cavemanloverboy/bosque
 
+### sol: a command line explorer for the solana bockchain
+Inspect transactions and accounts (coming soon) directly from your terminal.
+https://github.com/cavemanloverboy/sol
+
 ### oxylana: full stack solana development in rust
 A template repository that includes a smart contract, frontend, client and test suite all in Rust.
 https://github.com/cavemanloverboy/oxylana
