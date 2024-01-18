@@ -12,6 +12,10 @@ https://github.com/cavemanloverboy/bosque
 Inspect transactions and accounts (coming soon) directly from your terminal.
 https://github.com/cavemanloverboy/sol
 
+### sha2-const-stable: sha2-const, but stable
+Calculate sha2 hashes (sha224, sha256, sha384, sha512) at compile time using stable rust!
+https://github.com/cavemanloverboy/sha2-const-stable
+
 ### oxylana: full stack solana development in rust
 A template repository that includes a smart contract, frontend, client and test suite all in Rust.
 https://github.com/cavemanloverboy/oxylana
