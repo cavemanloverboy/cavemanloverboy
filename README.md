@@ -16,6 +16,13 @@ https://github.com/cavemanloverboy/sol
 Calculate sha2 hashes (sha224, sha256, sha384, sha512) at compile time using stable rust!
 https://github.com/cavemanloverboy/sha2-const-stable
 
+### solana-nostd-entrypoint: a zerocopy, no_alloc/no_std entrypoint for solana programs
+https://github.com/cavemanloverboy/solana-nostd-entrypoint
+
+### sokoban-bindings: using sokoban in C/C++/Zig
+Use the highly efficient zerocopy data structures of `sokoban` in C, C++, or Zig!
+https://github.com/ellipsis-labs/sokoban-bindings
+
 ### oxylana: full stack solana development in rust
 A template repository that includes a smart contract, frontend, client and test suite all in Rust.
 https://github.com/cavemanloverboy/oxylana
